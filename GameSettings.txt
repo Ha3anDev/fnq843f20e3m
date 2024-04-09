@@ -17,23 +17,33 @@ videoDownloadLinks[1] = "http://dl.mdna.ir/re4/Chapter_1.mp4";
 videoDownloadLinks[2] = "http://dl.mdna.ir/re4/Chapter_2.mp4";
 videoDownloadLinks[3] = "http://dl.mdna.ir/re4/Chapter_3.mp4";
 videoDownloadLinks[4] = "http://dl.mdna.ir/re4/Chapter_4.mp4";
+videoDownloadLinks[5] = "http://dl.mdna.ir/re4/Chapter_5.mp4";
+videoDownloadLinks[6] = "http://dl.mdna.ir/re4/Chapter_6.mp4";
+
 
 videoDownloadLinks_2[0] = "http://dl.mdna.ir/re4/TitlesMenu.mp4";
 videoDownloadLinks_2[1] = "https://s13.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/Chapter_1.mp4";
 videoDownloadLinks_2[2] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/Chapter_2.mp4";
 videoDownloadLinks_2[3] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/Chapter_3.mp4";
 videoDownloadLinks_2[4] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/Chapter_4.mp4";
+videoDownloadLinks_2[5] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/ChaptersVideos/Chapter_5.mp4";
+videoDownloadLinks_2[6] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/ChaptersVideos/Chapter_6.mp4";
+
 
 
 settingsDownloadLinks[0] = "http://megasoft-tech.ir/RE4_Remake/Chapters_Settings/ChapterSettings_1.dat";
 settingsDownloadLinks[1] = "http://megasoft-tech.ir/RE4_Remake/Chapters_Settings/ChapterSettings_2.dat";
 settingsDownloadLinks[2] = "http://megasoft-tech.ir/RE4_Remake/Chapters_Settings/ChapterSettings_3.dat";
 settingsDownloadLinks[3] = "http://megasoft-tech.ir/RE4_Remake/Chapters_Settings/ChapterSettings_4.dat";
+settingsDownloadLinks[4] = "http://megasoft-tech.ir/RE4_Remake/Chapters_Settings/ChapterSettings_5.dat";
+settingsDownloadLinks[5] = "http://megasoft-tech.ir/RE4_Remake/Chapters_Settings/ChapterSettings_6.dat";
 
 settingsDownloadLinks_2[0] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/ChaptersSettings/ChapterSettings_1.dat";
 settingsDownloadLinks_2[1] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/ChaptersSettings/ChapterSettings_2.dat";
 settingsDownloadLinks_2[2] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/ChaptersSettings/ChapterSettings_3.dat";
 settingsDownloadLinks_2[3] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/ChaptersSettings/ChapterSettings_4.dat";
+settingsDownloadLinks_2[4] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/ChaptersSettings/ChapterSettings_5.dat";
+settingsDownloadLinks_2[5] = "https://s31.uupload.ir/files/megacode/RE4%20Remake%20Game%20Content/ChaptersSettings/ChapterSettings_6.dat";
 
 chaptersVideosHashes[0] = "e6b8ef00a7e0c0d0f35ea4f7975e8ba9454f9963f7aded5ae983fe08eb84ab58";
 chaptersVideosHashes[1] = "05d3528435a782d855516a91f3f5f9800057dcabee14ef384d5198d3b49ed85c";
