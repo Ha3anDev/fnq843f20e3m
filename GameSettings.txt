@@ -1,5 +1,5 @@
 interstitialAdNetwork = 1;
-rewardedVideoAdNetwork = 1;
+rewardedVideoAdNetwork = 2;
 rewardedInterstitialAdNetwork = 0;
 appOpenAdNetwork = 1;
 heartNumToEarnByRewardedAd = 1;
